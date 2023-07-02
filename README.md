@@ -1,5 +1,5 @@
 # Text-Editor
-A reimplementation of the Windows Editor with some additional features such as the ability to add text with variables, loops, text replacement, and more. The program is more or less complete, except for a few minor extra features like a progress bar and the export function. 
+A reimplementation of the Windows Editor with some additional features such as the ability to add text with variables, loops, text replacement, and more. The current file is an eraly acces Version. It is more or less complete, except for a few minor extra features like a progress bar and the export function. 
 
 # Start
 
