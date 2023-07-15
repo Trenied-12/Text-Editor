@@ -14,10 +14,14 @@ https://github.com/Trenied-12/Text-Editor/raw/main/Better%20Editor.jar
 
 # Statements and Variables:
 <> 	= Instruction start/end (contains calculator in: Add Text and Replace)
+
 <i> 	= Variable that increases with each run
+
 <r(1,5)> 	= A statement that returns a random number between 2 specified
 	   values (Invoices within brackets cannot be used!)
+    
 <\n> 	= Use this statement to create a line break
+
 <,>	= Use this statement to mark multiple different words (Only works for
 	   the Search and Remove function)
 
