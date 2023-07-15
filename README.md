@@ -11,45 +11,6 @@ https://github.com/Trenied-12/Text-Editor/raw/main/Better%20Editor.jar
 
 ![image](https://github.com/Trenied-12/Text-Editor/assets/109001989/34a7ddf0-0144-4b0f-b75f-f0cba1c16f55)
 
-
-# Statements and Variables:
-<> 	= Instruction start/end (contains calculator in: Add Text and Replace)
-
-<i> 	= Variable that increases with each run
-
-<r(1,5)> 	= A statement that returns a random number between 2 specified
-	   values (Invoices within brackets cannot be used!)
-    
-<\n> 	= Use this statement to create a line break
-
-<,>	= Use this statement to mark multiple different words (Only works for
-	   the Search and Remove function)
-
-Hotkeys:
-
-Draw: 		CTRL + Left Click
-New File: 		CTRL + N
-Open File: 		CTRL + O
-Save File: 		CTRL + S
-Refresh Page: 	CTRL + F5
-Undo: 		CTRL + Z
-Undo: 		CTRL + Z
-Search: 		CTRL + F
-Copy: 		CTRL + C
-Copy All: 		CTRL + B
-Paste: 		CTRL + V
-Delete: 		CTRL + DELETE
-Select All: 		CTRL + A
-Calculate Selected Text: 	CTRL + E
-Add Text: 		CTRL + T
-Replace: 		CTRL + R
-Remove: 		CTRL + I
-Zoom In: 		CTRL + UP
-Zoom Out: 		CTRL + DOWN
-Zoom In: 		CTRL + SCROLL UP
-Zoom Out: 		CTRL + SCROLL DOWN
-Restore Default View: 	CTRL + 0
-
 # Start
 
 To run the .jar file, please follow the list below:
